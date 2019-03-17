@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Learn1Application",
+            "request": "launch",
+            "mainClass": "com.example.docker.learn1.Learn1Application",
+            "projectName": "learn1"
+        }
+    ]
+}

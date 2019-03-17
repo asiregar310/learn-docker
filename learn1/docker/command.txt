@@ -1,0 +1,7 @@
+build:
+docker build -t [image_repository] [dockerfile_path]
+ex: docker build -t learn1 docker/.
+
+run:
+docker run -p [docker_port]:[app_port] [image_repository]
+ex: docker run -p 3000:3000 learn1
